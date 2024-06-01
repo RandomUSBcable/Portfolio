@@ -2,3 +2,22 @@ body{
     background-color: black;
     color:aliceblue;
 }
+
+#header{
+    background-color: purple;
+    min-height: 100vh;
+    display: block;
+    margin: auto;
+}
+
+#lettersHolder{
+    min-width: 50vh;
+    max-width: 96vh;
+    background-color:aqua;
+    border: 5px aliceblue;
+}
+
+#letter{
+    color:aliceblue;
+
+}
